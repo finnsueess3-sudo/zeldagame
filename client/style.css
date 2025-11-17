@@ -1,0 +1,5 @@
+html,body{height:100%;margin:0;background:#0f1720;color:#e6eef6;font-family:Inter,system-ui,Arial}
+#game{display:block;margin:12px auto;border-radius:10px;box-shadow:0 8px 30px rgba(0,0,0,0.6); background:#86b27a}
+.ui{max-width:1100px;margin:10px auto;display:flex;gap:10px;align-items:center;justify-content:space-between}
+.panel{background:linear-gradient(180deg,#0d1620,#14202b);padding:8px 12px;border-radius:8px;border:1px solid rgba(255,255,255,0.03);color:#cfe8d7}
+button{background:#17353a;border:none;padding:8px 10px;border-radius:8px;color:#dff;cursor:pointer}
